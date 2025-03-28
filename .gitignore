@@ -1,0 +1,9 @@
+# Go build cache
+*.cache
+
+# Go workspace
+*.workspace
+
+# Additional OS-specific files
+*.bak
+*.tmp
